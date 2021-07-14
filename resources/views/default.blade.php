@@ -95,7 +95,7 @@
                                 <i toggle="#phone" class="fa fa-fw fa-phone toggle-password field-icon"></i>
                             </div>
                             <div class="form-group">
-                                <button type="submit" class="fxt-btn-fill">Request Free Demo</button>
+                                <button type="submit" class="fxt-btn-fill">Register Interest</button>
                             </div>
                         </form>
                     </div>
