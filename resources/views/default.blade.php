@@ -62,7 +62,7 @@
                 <div class="fxt-content">
                     <div class="fxt-form">
                         <h2>Complete The Form Below And Be Part Of Needed Change</h2>
-                        <p>To be part of this great initiative</p>
+                        <p>Be part of this great initiative</p>
                         <!--							<p>Care, whenever and whenever it is needed.</p>-->
                         @if(Session::has('success'))
                             <div class="alert alert-success">
