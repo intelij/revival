@@ -31,13 +31,13 @@
 <!--	<section class="fxt-template-animation fxt-template-layout22" data-bg-image="img/header.png">-->
 <section class="fxt-template-animation fxt-template-layout22" data-bg-image="/default/img/impilo.jpg">
     <!-- Star Animation Start Here -->
-    <div class="star-animation">
-        <div id="stars1"></div>
-        <div id="stars2"></div>
-        <div id="stars3"></div>
-        <div id="stars4"></div>
-        <div id="stars5"></div>
-    </div>
+{{--    <div class="star-animation">--}}
+{{--        <div id="stars1"></div>--}}
+{{--        <div id="stars2"></div>--}}
+{{--        <div id="stars3"></div>--}}
+{{--        <div id="stars4"></div>--}}
+{{--        <div id="stars5"></div>--}}
+{{--    </div>--}}
     <!-- Star Animation End Here -->
     <div class="container">
         <div class="row align-items-center">
